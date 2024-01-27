@@ -23,7 +23,7 @@ from sklearn.linear_model import LogisticRegression
   array([0])
   ```
   ```
-  1=Male,0=Female
-  1=No,2=Yes
+  Yes=Male=1
+  No=Female=0
   ```
  
